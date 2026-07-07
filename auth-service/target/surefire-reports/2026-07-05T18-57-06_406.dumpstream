@@ -1,0 +1,5 @@
+# Created at 2026-07-05T18:57:06.636
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Spark 4.0\Ecommerse-MicroServices\auth-service\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
